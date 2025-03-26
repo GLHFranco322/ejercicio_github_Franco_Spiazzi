@@ -3,3 +3,5 @@
 - Cada ves mas garcas los politicos
 
 - Vas a comprar algo pibe?
+
+["dialogoNPC-SI"]
