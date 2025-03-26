@@ -4,4 +4,4 @@
 
 - Vas a comprar algo pibe?
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI", "dialogoNPC-NO"]
